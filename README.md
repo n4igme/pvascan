@@ -11,5 +11,5 @@ This is just a Proof of Concept tool that automation Vulnerability Assessment wh
 
 [edb]: https://www.exploit-db.com/
 [nmp]: https://nmap.org/
-[csv]: https://raw.githubusercontent.com/offensive-security/exploit-database/master/files.csv
+[csv]: https://gitlab.com/exploit-database/exploitdb/-/raw/main/files_exploits.csv
 [sc1]: https://lh3.googleusercontent.com/-XI1h_Hz0pxE/Vk6aeU-TtZI/AAAAAAAAB_o/-vxsiDiNa3k/h409/pvascan.png "pvascan"
